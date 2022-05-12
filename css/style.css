@@ -1,0 +1,163 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    padding-left: 50px;
+}
+
+.main-contant-section {
+    margin: 100px 90px;
+}
+
+
+.about-me-profession {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+
+.about-me-section {
+    margin-top: 50px;
+    width: 400px;
+}
+
+.my-project-section {
+}
+
+.project-item {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project-item-scrit {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project-item-href {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.my-work-experience {
+    width: 525px;
+    margin-right: 217px;
+}
+
+   
+
+.my-education-section {
+    width: 327px;
+}
+
+
+.my-work-experience-section p {
+    font-size: 12px;
+    color: gray;
+}
+
+.company-2-section {
+    width: 525px;
+    margin-right: 217px;
+}
+
+.company-2-section p {
+    font-size: 12px;
+    color: gray;
+}
+
+.company-3-section p {
+    font-size: 12px;
+    color: gray;
+}
+
+.my-education-section h4 {
+    color: #FB6D3A;
+}
+
+.my-education-section p {
+    font-size: 12px;
+    color: gray;
+}
+
+img {
+    max-width: 400px;
+    width: 400px;
+}
+
+.sidebar-section {
+    color: #fff;
+    background-color: #1e2939;
+    padding: 40px 0px;
+}
+
+.contact-section,
+.soft-skills-section,
+.tech-skills-section {
+    margin: 50px 0 0 40px;
+}
+
+.section-title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.contact-section-type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+.contact-section-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+}
+
+.tech-skills-list {
+    padding-left: 18px;
+    color: coral;
+}
+
+.tech-skills-list-item {
+    color: #ffffff;
+}
+
+.about-me-section h1 {
+    font-size: 45px;
+}
+
+.colored-text {
+    color: #FB6D3A;
+}
+
+h3 {
+    font-size: 22px; 
+}
+
+h4 {
+    font-size: 16px; 
+}
+
